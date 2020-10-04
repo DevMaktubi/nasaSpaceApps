@@ -1,0 +1,9 @@
+[submodule "ForestGuardiansSite"]
+	path = ForestGuardiansSite
+	url = https://github.com/DevMaktubi/ForestGuardiansSite.git
+[submodule "nasaHackathonBackend"]
+	path = nasaHackathonBackend
+	url = https://github.com/gabrielsos/nasaHackathonBackend
+[submodule "ForestGuardiansMobile"]
+	path = ForestGuardiansMobile
+	url = https://github.com/DevMaktubi/ForestGuardiansMobile.git
